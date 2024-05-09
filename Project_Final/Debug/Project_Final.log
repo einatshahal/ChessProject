@@ -1,0 +1,20 @@
+﻿  general_functions.c
+  source1.c
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\source1.c(6,12): warning C4101: 'i': unreferenced local variable
+  source2.c
+  source3.c
+  source4.c
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\source4.c(26,21): warning C4047: 'function': 'int *(*)[5]' differs in levels of indirection from 'int [5][5]'
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\source4.c(26,16): warning C4024: 'helper': different types for formal and actual parameter 2
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\source4.c(57,33): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+  Source5.c
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\Source5.c(7,9): warning C4101: 'remainder': unreferenced local variable
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\Source5.c(7,6): warning C4101: 'i': unreferenced local variable
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\Source5.c(9,44): warning C4101: 'temp': unreferenced local variable
+  Source6.c
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\Source6.c(8,12): warning C4101: 'size': unreferenced local variable
+  source7.c
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\source7.c(98,9): warning C4101: 'c': unreferenced local variable
+C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Project_Final\source7.c(112,9): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+  Project_Final.vcxproj -> C:\Users\einat\Desktop\Computer Science\1_year\סמסטר ב\תכנות מתקדם בשפת C\Project_Final\Debug\Project_Final.exe
